@@ -1,0 +1,52 @@
+E:\Semester 6\DB\p\db\db\obj\Debug\db.csprojAssemblyReference.cache
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form1.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form10.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form12.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form2.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form3.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form4.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form5.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form6.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form7.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form8.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form9.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Properties.Resources.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.csproj.GenerateResource.cache
+E:\Semester 6\DB\p\db\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form14.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form15.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form16.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form17.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form18.resources
+E:\Semester 6\DB\p\db\db\obj\Debug\db.Form19.resources
+E:\Semester 6\DB\p\db\db\bin\Debug\db.exe.config
+E:\Semester 6\DB\p\db\db\bin\Debug\db.exe
+E:\Semester 6\DB\p\db\db\bin\Debug\db.pdb
+E:\Semester 6\DB\p\db\db\obj\Debug\db.exe
+E:\Semester 6\DB\p\db\db\obj\Debug\db.pdb
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\bin\Debug\db.exe.config
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\bin\Debug\db.exe
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\bin\Debug\db.pdb
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.csprojAssemblyReference.cache
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form1.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form10.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form12.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form14.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form15.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form16.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form17.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form18.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form19.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form2.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form3.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form4.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form5.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form6.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form7.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form8.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Form9.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.Properties.Resources.resources
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.csproj.GenerateResource.cache
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.exe
+E:\Semester 6\DB\Project\DB project\1760_1782_2166_forms\db\obj\Debug\db.pdb
